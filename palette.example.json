@@ -1,0 +1,7 @@
+{
+  "pairs": [
+    {"name": "title", "text": "#ffffff", "background": "#0b2a6f"},
+    {"name": "caption", "text": "#777777", "background": "#ffffff"},
+    {"name": "big number", "text": "#777777", "background": "#ffffff", "large": true}
+  ]
+}
