@@ -1,4 +1,4 @@
-# LUMEN: Legibility Under Motion for Every Number
+# LUCERNA: Latin for a lamp: numbers kept lit and readable
 
 Formerly `maths-video-contrast`.
 
