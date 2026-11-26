@@ -1,4 +1,6 @@
-# maths-video-contrast
+# LUMEN: Legibility Under Motion for Every Number
+
+Formerly `maths-video-contrast`.
 
 Colour contrast checker for maths videos.
 
